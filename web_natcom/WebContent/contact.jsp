@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>NatCom System | Creaci&oacute;n de P&aacute;ginas Web</title>
+        <title>MCUBE Solutions | CU3ER By Template World</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
     </head>
 
@@ -20,19 +20,19 @@
             <div id="content_cen">
                 <div id="content_sup" class="head_pad">
                     <div id="welcom_pan">
-                        <h2><span>Contacto</span> NatCom System</h2>
-                        <p>                               </p>
-                        <iframe width="780" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.pe/maps?f=d&amp;source=s_d&amp;saddr=-12.072686,-77.111449&amp;daddr=&amp;hl=es&amp;geocode=&amp;sll=-12.072644,-77.111471&amp;sspn=0.011394,0.021136&amp;mra=mift&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;ll=-12.072644,-77.111471&amp;spn=0.011394,0.021136&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com.pe/maps?f=d&amp;source=embed&amp;saddr=-12.072686,-77.111449&amp;daddr=&amp;hl=es&amp;geocode=&amp;sll=-12.072644,-77.111471&amp;sspn=0.011394,0.021136&amp;mra=mift&amp;mrsp=0&amp;sz=16&amp;ie=UTF8&amp;t=m&amp;ll=-12.072644,-77.111471&amp;spn=0.011394,0.021136" style="color:#0000FF;text-align:right;float:right">Ver mapa más grande</a></small>
+                        <h2><span>MCUBE</span> Contact</h2>
+                        <p>Aliquam ut ipsum non mi vehicula fringilla. Fusce ac risus eget felis mollis cursus eu eu mi. Ut vulputate adipiscing mauris, ac tincidunt enim tristique id. Integer eget turpis nunc. Ut ut diam urna. Duis gravida vehicula sem malesuada laoreet. In hac habitasse platea dictumst. Praesent eget dui ornare mauris auctor pellentesque. Vivamus non eros quis mi venenatis sollicitudin.</p>
+                        <iframe width="750" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1090+25th+Place,+Bradenton,+FL+34203,+United+States&amp;sll=21.125498,81.914063&amp;sspn=45.959686,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=1090+25th+St+W,+Bradenton,+Manatee,+Florida+34205,+United+States&amp;ll=27.490161,-82.58594&amp;spn=0.001666,0.004023&amp;z=18&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.in/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=1090+25th+Place,+Bradenton,+FL+34203,+United+States&amp;sll=21.125498,81.914063&amp;sspn=45.959686,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=1090+25th+St+W,+Bradenton,+Manatee,+Florida+34205,+United+States&amp;ll=27.490161,-82.58594&amp;spn=0.001666,0.004023&amp;z=18&amp;iwloc=A" class="enlarg" target="_blank">View Larger Map</a></small>
                     </div>
-                    <div class="lftWrap" style="clear:both;">
-                        <h3><span>Direccion</span> Corporativa</h3>
-                        <p>Somewhere, <br />La Perla, <br />Callao 02, <br />Peru</p>
+                    <div class="lftWrap">
+                        <h3><span>Corporate</span> Address</h3>
+                        <p>1090 25th Place, <br />Bradenton, <br />FL 34203, <br />United States</p>
                     </div>
                     <div class="rgtWrap">
-                        <h3><span>Contacto</span> R&aacute;pido</h3>
-                        <input name="name" type="text" class="txt" value="Nombre" />
+                        <h3><span>Quick</span> Contact</h3>
+                        <input name="name" type="text" class="txt" value="Name" />
                         <input name="id" type="text" class="txt" value="Email-ID" />
-                        <input name="submit" type="submit" class="btn" value="Enviar" />
+                        <input name="submit" type="submit" class="btn" value="submit" />
                     </div>
                 </div>
             </div>

@@ -3,12 +3,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>NatCom System | Creaci&oacute;n de P&aacute;ginas Web</title>
+        <title>MCUBE Solutions | CU3ER By Template World</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
-        <!--  STEP ONE: insert path to SWFObject JavaScript -->
+        
+        
+        <link type="text/css" href="menuBar_jquery/menu.css" rel="stylesheet" />
+		<script type="text/javascript" src="menuBar_jquery/jquery.js"></script>
+		<script type="text/javascript" src="menuBar_jquery/menu.js"></script>
+	
+        <!--  STEP ONE: insert path to SWFObject JavaScript
         <script type="text/javascript" src="js/swfobject/swfobject.js"></script>
 
-        <!--  STEP TWO: configure SWFObject JavaScript and embed CU3ER slider -->
+        <!--  STEP TWO: configure SWFObject JavaScript and embed CU3ER slider
         <script type="text/javascript">
             var flashvars = {};
             flashvars.xml = "config.xml";
@@ -18,22 +24,24 @@
             attributes.id = "slider";
             swfobject.embedSWF("cu3er.swf", "cu3er-container", "800", "360", "9", "expressInstall.swf", flashvars, attributes);
         </script>
+         -->
+         
     </head>
 
     <body>
         <div id="head">
-            <div id="head_cen">
+              <div id="head_cen">
                 <div id="head_sup" class="head_height">
                     <img src="images/bannerBg.png" alt="" class="ban_bg" />
                     <%@include file="includes/header.jsp" %>
-                    <!-- <div id="cu3er-container">
+                    <!--  <div id="cu3er-container">
                         <a href="http://www.adobe.com/go/getflashplayer">
                             <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
                         </a>
                     </div> -->
                 </div>
-            </div>
-        </div>
+            </div> 
+        </div> 
         <div id="content">
             <div id="content_cen">
                 <div id="content_sup">
@@ -52,36 +60,56 @@
                         <a href="#" class="tweet"></a>
                     </div>
                     <div id="welcom_pan">
-                        <h2><span>NatCom System</span>Introducci&oacute;n</h2>
-                        <a class="brochure" href="#"><span>Descargar Bolet&iacute;n</span></a>
-                       <p>Las Empresas en todo el mundo buscan exponer sus productos a la mayoria de clientes posibles, es por eso que la creacion de contenido web se volvio muy popular en la actualidad. NatCom System se dedica a la creacion e implementacion de material Web de calidad a empresas que lo requieran.</p>
+                        <h2><span>MCUBE</span>Introduction</h2>
+                        <a class="brochure" href="#"><span>DOWNLOAD BROCHURE</span></a>
+                        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla vitae diam magna, eget fringilla tellus. Curabitur est velit, suscipit eu faucibus eget, aliquam ac enim. per inceptos himenaeos. Nulla vitae diam magna, eget fringilla tellus.</p>
                     </div>
-                    <%@include file="includes/center.jsp" %>
+                    <ul id="infoPan">
+                        <li>
+                            <h3><span>web</span> design <img src="images/icon1.png" alt="" /></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            <p class="descrip">Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt massa, vitae pulvinar eros commodo ut. Sed in orci neque. Mauris eros est, auctor vitae.</p>
+                        </li>
+                        <li>
+                            <h3><span>web</span> coding <img src="images/icon2.png" alt="" /></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            <p class="descrip">Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt massa, vitae pulvinar eros commodo ut. Sed in orci neque. Mauris eros est, auctor vitae.</p>
+                        </li>
+                        <li>
+                            <h3><span>web</span> market <img src="images/icon3.png" alt="" /></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            <p class="descrip">Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt massa, vitae pulvinar eros commodo ut. Sed in orci neque. Mauris eros est, auctor vitae.</p>
+                        </li>
+                    </ul>
                     <div id="quotPan">
-                        <h3><span>Suscribete </span>gratis</h3>
-                        <input name="name" type="text" value="Tu nombre" class="txt" />
-                        <input name="id" type="text" value="Tu e-mail" class="txt" />
-                        <input name="submit" type="submit" class="btn" value="Enviar" />
+                        <h3><span>get a free </span>quote</h3>
+                        <input name="name" type="text" value="your name" class="txt" />
+                        <input name="id" type="text" value="email id" class="txt" />
+                        <input name="submit" type="submit" class="btn" value="submit" />
                     </div>
                     <div id="blog">
-                        <h3><span>desde el</span> blog <img src="<%=request.getContextPath() %>/images/blog.png" width="35px" style="vertical-align:middle;"/></h3>
+                        <h3><span>from the</span> blog</h3>
                         <ul>
                             <li>
-                                <a href="#">Proxima apertura</a>
-                                <p></p>
+                                <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a>
+                                <p>Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt massa, vitae pulvinar eros commodo ut. Sed in orci neque. Mauris eros est, auctor vitae.</p>
                             </li>
                             <li>
-                                <a href="#">Coming soon</a>
-                                <p></p>
+                                <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a>
+                                <p>Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt massa, vitae pulvinar eros commodo ut. Sed in orci neque. Mauris eros est, auctor vitae.</p>
                             </li>
                         </ul>
                     </div>
                     <div id="latest">
-                        <h3><span>&Uacute;ltimas </span>Noticias <img src="<%=request.getContextPath() %>/images/noticias.png" width="50px" style="vertical-align:middle;"/> </h3>
+                        <h3><span>latest </span>latest </h3>
                         <ul>
                             <li>
-                                <a href="#">Apertura proxima</a>
-                                <p>La empresa NatCom System esta en proceso de creación a pronta apertura para todas las personas interesadas en sumegir sus empresas al mundo virtual</p>
+                                <a href="#">consectetur adipiscing elit.</a>
+                                <p>Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt.</p>
+                            </li>
+                            <li>
+                                <a href="#">consectetur adipiscing elit.</a>
+                                <p>Maecenas ut lacus magna, ut consectetur quam. Etiam pharetra tincidunt.</p>
                             </li>
                         </ul>
                     </div> 
