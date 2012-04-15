@@ -1,3 +1,0 @@
-Linea 1 Juan
-Linea 3 Juan
-Linea 4 Gustavo
