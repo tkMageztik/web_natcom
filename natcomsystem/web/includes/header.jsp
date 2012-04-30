@@ -1,9 +1,9 @@
 <p class="search">
-    <label>SEARCH</label>
+    <label>Buscar</label>
     <input name="search" type="text" class="txt" />
     <input name="search-btn" type="submit" class="btn" value="SEARCH" />
 </p>
-<h1 class="logo"><a href="<%=request.getContextPath()%>/index.jsp">M CUBE</a></h1>
+<h1 class="logo"><a href="<%=request.getContextPath()%>/index.jsp">Natcom System</a></h1>
 <ul>
     <li><a class="active" href="<%=request.getContextPath()%>/index.jsp">Home</a></li>
     <li><a href="<%=request.getContextPath()%>/about.jsp">ABOUT</a></li>

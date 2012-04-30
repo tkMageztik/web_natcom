@@ -3,7 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>MCUBE Solutions | CU3ER By Template World</title>
+        <title>Natcom Systems</title>
+        <link rel="shorcut icon" href="images/logo_tentativo.png"/>
         <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
         <link type="text/css" href="menuBar_jquery/menu.css" rel="stylesheet" />
 		<script type="text/javascript" src="menuBar_jquery/jquery.js"></script>

@@ -8,7 +8,7 @@
 el path (la ruta raíz) donde se encuentra actualmente la página, es indica que si se mueve
 la ruta de donde está el jsp, html, no cambiaría el href, interesante.  -->
 
-<h1 class="logo"><a href="<%=request.getContextPath()%>/index.jsp">M CUBE</a></h1>
+<h1 class="logo" style="margin-bottom:60px"><a href="<%=request.getContextPath()%>/index.jsp"><img src="images/natcom.png" width="190px" height="110px"/></a></h1>
 <!--
 <ul>
     <li><a class="active" href="<%=request.getContextPath()%>/index.jsp">Home</a></li>
@@ -24,7 +24,7 @@ la ruta de donde está el jsp, html, no cambiaría el href, interesante.  -->
 
 	 <div id="menu"> 
 		<ul class="menu">
-			<li><a href="#" class="parent"><span>Home</span></a>
+			<li><a href="index.jsp" class="parent"><span>Home</span></a>
 				<div><ul>
 					<li><a href="#" class="parent"><span>Sub Item 1</span></a>
 						<div><ul>
@@ -53,19 +53,19 @@ la ruta de donde está el jsp, html, no cambiaría el href, interesante.  -->
 			</li>
 			<li><a href="#"><span>Product Info</span></a>
 				<div><ul>
-					<li><a href="#" class="parent"><span>Sub Item 1</span></a>
+					<li><a href="#" class="parent"><span>Entornos Locales</span></a>
 						<div><ul>
 						<li><a href="#"><span>Sub Item 1.1</span></a></li>
 						<li><a href="#"><span>Sub Item 1.2</span></a></li>
 						</ul></div>
 					</li>
-					<li><a href="#" class="parent"><span>Sub Item 2</span></a>
+					<li><a href="#" class="parent"><span>Sistemas Web</span></a>
 						<div><ul>
 						<li><a href="#"><span>Sub Item 2.1</span></a></li>
 						<li><a href="#"><span>Sub Item 2.2</span></a></li>
 						</ul></div>
 					</li>
-					<li><a href="#"><span>Sub Item 3</span></a></li>
+					<li><a href="clientes.jsp"><span>Nuestros Clientes</span></a></li>
 					<li><a href="#"><span>Sub Item 4</span></a></li>
 					<li><a href="#"><span>Sub Item 5</span></a></li>
 					<li><a href="#"><span>Sub Item 6</span></a></li>

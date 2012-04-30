@@ -16,8 +16,8 @@ li											{list-style:none}
 #head p.search input.txt					{width:135px; height:21px; margin-right:7px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; color:#2c2d2c; border:0; background:url(../images/searchbg.png) no-repeat}
 #head p.search input.btn					{width:68px; height:21px; float:left; border:0; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:11px; color:#999999; text-align:center; cursor:pointer; background:url(../images/searchbtn.png) no-repeat}
 #head p.search input.btn:active				{background-position:2px 2px}
-h1.logo										{width:160px; height:36px; margin-top:112px; float:left; background:url(../images/logo.png) no-repeat}
-h1.logo a									{width:100%; height:100%; float:left; text-indent:-9999px}
+h1.logo										{width:160px; height:36px; margin-top:112px; float:left;}
+/*h1.logo a									{width:100%; height:100%; float:left; text-indent:-9999px}*/
 /*#head ul									{width:396px; height:44px; margin-top:58px; float:right}
 #head ul li									{width:auto; margin-left:1px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#5f5f5f; line-height:35px; text-transform:uppercase}
 #head ul li:first-child						{margin:0}
@@ -59,7 +59,7 @@ h2 span										{color:#3b3b3b; text-transform:uppercase; margin-right:5px}
 h3											{width:auto; float:left; font-family:Arial, Helvetica, sans-serif; font-size:26px; color:#31a1ff; font-weight:bold; line-height:60px; letter-spacing:-1.7px}
 h3 span										{color:#3b3b3b; margin-right:0px}
 ul#infoPan									{width:100%; float:left}
-ul#infoPan li								{width:226px; margin-left:56px; float:left}
+ul#infoPan li								{width:260px; margin-left:10px; float:left}
 ul#infoPan li:first-child					{margin:0}
 ul#infoPan li h3							{width:100%; height:67px; float:left; font-size:26px; color:#31a1ff; font-weight:bold; line-height:60px; letter-spacing:-1.7px}
 ul#infoPan li h3 span						{color:#3b3b3b; margin-right:2px}
@@ -97,6 +97,7 @@ ul#infoPan li p.descrip						{margin-top:13px; font-size:12px; line-height:16px;
 #foot ul li.space							{width:auto; float:left; padding:0 6px}
 #foot p										{width:100%; margin-top:10px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:14px; color:#767676; line-height:18px; text-align:center}
 #foot p	a									{color:inherit}
+#foot a:hover								{color:#4682B4}
 
 #service_pan								{width:100%; margin-top:20px; float:left}
 #service_pan ul								{width:100%; float:left}
@@ -106,3 +107,5 @@ ul#infoPan li p.descrip						{margin-top:13px; font-size:12px; line-height:16px;
 #service_pan ul li h5						{width:auto; margin:10px 0 0 10px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#31a1ff}
 #service_pan ul li p						{width:300px; margin:5px 0 0 10px; float:left; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; color:#5c5c5c}
 #service_pan ul li p a						{width:auto; float:right; color:#31a1ff}
+#service_pan ul li h5 a:hover				{color:#31a1ff}
+#service_pan ul li h5 a						{color:black}

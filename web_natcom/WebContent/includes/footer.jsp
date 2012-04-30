@@ -10,7 +10,8 @@
             <li class="space">|</li>
             <li><a href="<%=request.getContextPath()%>/contact.jsp">CONTACTO</a></li>
         </ul>
-        <p>© NatCom System Copyright. Diseñado por:</p>
+        <p>© NatCom Systems Copyright. Diseñado por:</p>
         <p>Juan Jos&eacute; Ruiz de Castilla Ramirez y Gustavo Galarza Arica</p>
+        <p>Facebook: <a href="http://www.facebook.com/natcomsystem" target="_blank">http://www.facebook.com/natcomsystem</a></p>
     </div>
 </div>
