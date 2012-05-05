@@ -97,5 +97,8 @@
             </div>
         </div>
         <%@include file="includes/footer.jsp" %>
+        <div style="visibility: hidden;" >
+        <a href="http://apycom.com/">Apycom jQuery Menus</a>
+        </div>
     </body>
 </html>

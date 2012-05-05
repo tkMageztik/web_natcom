@@ -16,10 +16,10 @@
 			<span>codificaci&oacute;n</span> web<img src="images/icon2.png"
 				alt="" />
 		</h3>
-		<p>Lenguajes de Programacion</p>
+		<p>Lenguajes de Programaci&oacute;n</p>
 		<p class="descrip">La creacion de contenido web se maneja mediante
-			ciertos lenguajes de programacion como lo son CSS, HTML, PHP, ASP,
-			ASPX, JAVA, JavaScript, JSP, Phyton, Ruby, entre otros con el fin de
+			ciertos lenguajes de programacion como lo son CSS, HTML, PHP, .NET,
+			JAVA, JavaScript, Phyton, Ruby, entre otros con el fin de
 			obtener un dinamismo en todo contenido web.</p>
 	</li>
 	<li>
@@ -27,7 +27,7 @@
 			<span>mercado</span> web<img src="images/icon3.png" alt="" />
 		</h3>
 		<p>NatCom System Orientado</p>
-		<p class="descrip">El mercado de Natcom System es mayormente
+		<p class="descrip">Este rubro de Natcom System es mayormente de
 			empresas interesadas en adentrarse al mundo virtual y exponer sus
 			productos o servicios mediante la red por medio de contenidos
 			virtuales que nosotros les proporcionaremos.</p>
