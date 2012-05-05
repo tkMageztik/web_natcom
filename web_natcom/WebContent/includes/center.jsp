@@ -13,8 +13,7 @@
 	</li>
 	<li>
 		<h3>
-			<span>codificaci&oacute;n</span> web<img src="images/icon2.png"
-				alt="" />
+			<span>codificaci&oacute;n</span> web<img src="images/icon2.png" alt="" />
 		</h3>
 		<p>Lenguajes de Programaci&oacute;n</p>
 		<p class="descrip">La creacion de contenido web se maneja mediante

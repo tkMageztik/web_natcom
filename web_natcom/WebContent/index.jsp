@@ -3,7 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>MCUBE Solutions | CU3ER By Template World</title>
+        <title>Natcom Systems</title>
+        <link rel="shorcut icon" href="images/logo_tentativo.png"/>
         <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
         
         
@@ -31,8 +32,7 @@
     <body>
         <div id="head">
               <div id="head_cen">
-                <div id="head_sup" class="head_height">
-                    <img src="images/bannerBg.png" alt="" class="ban_bg" />
+                <div id="head_sup" class="head_pad">
                     <%@include file="includes/header.jsp" %>
                     <!--  <div id="cu3er-container">
                         <a href="http://www.adobe.com/go/getflashplayer">

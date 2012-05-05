@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>MCUBE Solutions | CU3ER By Template World</title>
+        <title>Natcom Systems</title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
         <!--  STEP ONE: insert path to SWFObject JavaScript -->
         <script type="text/javascript" src="js/swfobject/swfobject.js"></script>
-
+        <link rel="shorcut icon" href="images/logo_tentativo.png"/>
         <!--  STEP TWO: configure SWFObject JavaScript and embed CU3ER slider -->
         <script type="text/javascript">
             var flashvars = {};
